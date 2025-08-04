@@ -1,0 +1,13 @@
+admin
+admin.php
+login
+login.html
+index
+robots.txt
+sitemap.xml
+css
+js
+images
+uploads
+config
+backup
